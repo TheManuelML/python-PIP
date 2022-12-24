@@ -13,7 +13,7 @@ App es una carpeta de practica al igual que charts, solo que en app se usaron ma
 
  ### Correr el app project
  ```sh
-git clone
+git clone <url>
 cd app
 source env/bin/activte
 pip3 install -r requirements.txt
