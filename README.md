@@ -15,6 +15,7 @@ App es una carpeta de practica al igual que charts, solo que en app se usaron ma
  ```sh
 git clone <url>
 cd app
+python3 -m venv env
 source env/bin/activte
 pip3 install -r requirements.txt
 python3 main.py
