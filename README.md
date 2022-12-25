@@ -34,7 +34,7 @@ pip3 install -r requirements.txt
 uvicorn main:app --reload
 ```
 Con todos estos comandos puestos en tu navegador ahora puedes buscar lo siguiente:
->> local:800
->> local:800/contact
+* local:800
+* local:800/contact
 Cualquiera de las dos mostrara codigo creado por nosotros en este curso
 
