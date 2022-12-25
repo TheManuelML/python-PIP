@@ -33,8 +33,7 @@ source env/bin/activate
 pip3 install -r requirements.txt
 uvicorn main:app --reload
 ```
-Con todos estos comandos puestos en tu navegador ahora puedes buscar lo siguiente:
-* local:800
-* local:800/contact
-Cualquiera de las dos mostrara codigo creado por nosotros en este curso
+Con todos estos comandos puestos, lo que sigue es escribir lo siguiente en el buscador de tu navegador, de esta manera podras ver el codigo que se escribio en el curso de PIP y entornos virtuales y pate del codigo escrito en el curso de Git y GitHub.
+* local:8000
+* local:8000/hyperblog
 

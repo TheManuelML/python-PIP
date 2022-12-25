@@ -8,7 +8,7 @@ app = FastAPI()
 def get_list():
     return [1 ,2 ,3]
 
-@app.get('/contact', response_class=HTMLResponse)
+@app.get('/hyperblog', response_class=HTMLResponse)
 def get_list():
     return '''
     <html>
