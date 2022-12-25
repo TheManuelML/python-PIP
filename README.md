@@ -37,3 +37,10 @@ Con todos estos comandos puestos, lo que sigue es escribir lo siguiente en el bu
 * localhost:8000
 * localhost:8000/hyperblog
 
+### Docker y venv
+En este curso principalmente aprendimos a como aislar proyectos para asi tener diferentes versiones de nuestros paquetes y del mismo python en nuestro entorno local.
+
+### Opinion del curso
+Este curso estuvo muy bien para incentivarnos a seguir aprendiendo ya que esto que vimos solo es la punta del iceberg de todas las cosas increibles que se pueden llegar a hacer con Python.
+
+Un curso muy bueno con un instructor muy carismatico y dedicado. 9/10. 
